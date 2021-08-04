@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:4:5-13:19
+activity#per.goweii.anylayer.LayerActivity
+ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:5:9-7:57
+	android:theme
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:7:13-54
+	android:name
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:6:13-42
+provider#per.goweii.anylayer.ActivityProvider
+ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:8:9-12:43
+	android:authorities
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:10:13-68
+	android:multiprocess
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:12:13-40
+	android:exported
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml:9:13-45
+uses-sdk
+INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+		ADDED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml
+		INJECTED from D:\Android2\Test4\anylayer\src\main\AndroidManifest.xml

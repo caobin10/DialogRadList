@@ -1,0 +1,24 @@
+<resources>
+
+    <declare-styleable name="MaxHeightRecyclerView">
+        <attr name="maxHeight" format="dimension" />
+    </declare-styleable>
+
+    <!--  -->
+    <style name="DialogList">
+    </style>
+    <style name="DialogList.Item">
+    </style>
+    <style name="DialogList.Item.Button">
+        <item name="android:button">@null</item>
+        <item name="android:drawableRight">@drawable/selector_chk_type</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">5.0dip</item>
+        <item name="android:padding">@dimen/dp_8</item>
+    </style>
+
+
+</resources>
